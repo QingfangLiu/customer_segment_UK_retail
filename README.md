@@ -1,1 +1,2 @@
-# customer_segment_UK_retail
+#### This is a learning project that helps me understand how to gather and clean data for customer segmentation.
+* more details upcoming :)
